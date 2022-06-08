@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/Qiuzhijin/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Qiuzhijin/StrapDown.js/stargazers/)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qiuzhijin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuzhijin&layout=compact&theme=buefy&hide_border=true" /></a> |
 

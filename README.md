@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
-[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
+[![Stargazers over time](https://starchart.cc/qiuzhijin/myBlog.svg)](https://starchart.cc/qiuzhijin/myBlog)
 
 
 <!--

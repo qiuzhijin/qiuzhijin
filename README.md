@@ -10,7 +10,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+<br/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Qiuzhijin's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=qiuzhijin&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 
+<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qiuzhijin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuzhijin&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
